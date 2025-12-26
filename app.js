@@ -1,8 +1,8 @@
 // Contract configuration
-const CONTRACT_ADDRESS = '0xdD158B8A76566bC0c342893568e8fd3F08A9dAac';
-const NFT_CONTRACT_ADDRESS = '0xd0f4E1265Edd221b5bb0e8667a59f31B587B2197';
-const CHAIN_ID = 42161;
-const RPC_URL = 'https://arb-mainnet.g.alchemy.com/v2/Q5MUXKn-PR2713ZRSm6L4';
+const CONTRACT_ADDRESS = '0x7BDc2aECC3CDaF0ce5a975adeA1C8d84Fd9Be3D9';
+const NFT_CONTRACT_ADDRESS = '0x18e56e7b120c7cbd06117a36e94e61a932a5a302';
+const CHAIN_ID = 16661;
+const RPC_URL = 'https://evmrpc.0g.ai';
 
 // Contract ABI - only including the functions we need
 const CONTRACT_ABI = [
